@@ -1,0 +1,4 @@
+THE STUDENT LIST OF CLASS E24CQCE01
+ID        FULL NAME                ENGLISH SCORE  
+23        Nguyen Minh Huu          90             
+56        Nguyen Hai Dang          89             
